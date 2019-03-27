@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Spyro Simotas's CV
+title: Spyridon Simotas's Cirriculum Vitæ
 ---
 # Spyro Simotas
 PhD Candidate, Department of French, University of Virginia.

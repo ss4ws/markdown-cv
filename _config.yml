@@ -1,5 +1,5 @@
 markdown:   kramdown
 style:  davewhipp #kjhealy 
 repository: ss4ws/markdown-cv
-baseurl: "/markdown-cv"
+baseurl: "/md-cv"
 url: https://ss4ws.github.io/
