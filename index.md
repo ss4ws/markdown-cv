@@ -2,12 +2,12 @@
 layout: cv
 title: Spyridon Simotas's Cirriculum Vitæ
 ---
-# Spyridon Simotas's Cirriculum Vitæ
+# Spyridon Simotas
 PhD Candidate, Department of French, University of Virginia.
 
 <div id="webaddress">
-<a href="ss4ws@virginia.edu">ss4ws@virginia.edu</a>
-| <a href="https://ss4ws.github.io/">Website</a> 
+<a href="ss4ws@virginia.edu">E-mail: ss4ws@virginia.edu</a>
+| <a href="https://ss4ws.github.io/">Website: https://ss4ws.github.io/</a> 
 </div>
 
 
