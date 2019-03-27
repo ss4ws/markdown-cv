@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Cirriculum Vitæ
+title: Spyridon Simotas Cirriculum Vitæ
 ---
 # Spyridon Simotas
 PhD Candidate, Department of French, University of Virginia.
