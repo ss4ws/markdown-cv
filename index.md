@@ -2,7 +2,7 @@
 layout: cv
 title: Spyridon Simotas's Cirriculum Vitæ
 ---
-# Spyro Simotas
+# Spyridon Simotas's Cirriculum Vitæ
 PhD Candidate, Department of French, University of Virginia.
 
 <div id="webaddress">
@@ -33,8 +33,10 @@ _Maîtrise (MA1)_ - Lettres Modernes
 _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
 
-### Research interests
-
+### RESEARCH INTERESTS
+- 20th & 21st Century French literature and Cultural Studies from the Revolution to present.
+- Digital Humanities, teaching with technology, e-portfolios in second language acquisition.
+- Visual Studies.
 - 20th & 21st Century French literature and Cultural Studies from the Revolution to present.
 - Digital Humanities, teaching with technology, e-portfolios in second language acquisition. 
 - Visual Studies.
@@ -213,7 +215,7 @@ __Project Management:__ Slack, Asana, Trello, Basecamp
 Upon Request 
 
 
-<!-- ### Footer
+<!-- #### Footer
 
 Last updated: 2019-03-26 -->
 
