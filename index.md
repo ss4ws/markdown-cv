@@ -220,8 +220,8 @@ __Project Management:__ Slack, Asana, Trello, Basecamp
 Upon Request 
 
 
-<!-- #### Footer
+#### Footer
 
-Last updated: 2019-03-26 -->
+Last updated: 2019-04-15 22:03:48
 
 
