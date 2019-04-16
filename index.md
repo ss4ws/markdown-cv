@@ -82,6 +82,11 @@ __E-portfolio's reliance on technology (digital literacy)__, AAEEBL Southeast Re
 ## PRESENTATIONS & WORKSHOPS
 
 `2019`
+__Visualizing Students' Flourishing__  
+Contemplative Pedagogy Across the Languages: Towards a More Mindful Learning Experience  
+Institute of World Languages, University of Virginia.
+
+`2019`
 __Augmented Reality and Digital Space__ 
 Augmented Reality and Language Learning, New Forms of Immersion  
 Institute of World Languages, University of Virginia.
@@ -222,6 +227,6 @@ Upon Request
 
 #### Footer
 
-Last updated: 2019-04-15 22:03:48
+Last updated: 2019-04-16 09:02:35
 
 
