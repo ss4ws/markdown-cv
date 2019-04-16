@@ -81,6 +81,11 @@ __E-portfolio's reliance on technology (digital literacy)__, AAEEBL Southeast Re
 
 ## PRESENTATIONS & WORKSHOPS
 
+`2019`
+__Augmented Reality and Digital Space__ 
+Augmented Reality and Language Learning, New Forms of Immersion  
+Institute of World Languages, University of Virginia.
+
 `2017`
 __Workshop on video making with a smartphone__, Architecture School, University of Virginia.
 
@@ -90,7 +95,7 @@ __Designing e-portfolio Assignments__, Institute of World Languages Faculty Retr
 `2016`
 __Un siècle de bruits, du studio d’essai à Justin Bieber__ Quartier Français à la Maison Française, University of Virginia.
 
-`2014-2017`
+`2014-2019`
 __Teaching vocabulary in context__, annual graduate students’ orientation week, University of Virginia.
 
 
