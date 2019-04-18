@@ -31,7 +31,7 @@ _Dissertation_: Vies d’artistes dans l’oeuvre de Pierre Michon
 __University Paris 8__, _Maîtrise (MA1)_, Lettres Modernes     
 _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
-
+gi
 ## RESEARCH INTERESTS
 20th & 21st Century French literature and Cultural Studies from the Revolution to present.  
 Digital Humanities, teaching with technology, e-portfolios & self-tracking in second language acquisition.  
