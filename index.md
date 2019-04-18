@@ -193,7 +193,7 @@ __Copywriter__, Spot JWT, Athens.
 ## ACADEMIC SERVICE
 
 `2019`
-__Member of the _Contemplative Practices in Foreign Languages Instruction_ working group__, University of Virginia.
+__Member of the Contemplative Practices in Foreign Languages Instruction working group__, University of Virginia.
 
 `2016-2017`
 __Coordinator for Business French Training Course__, Department of French at the University of Virginia, the Cultural Services of the French Embassy in Washington and the Chamber of Commerce in Paris.
@@ -201,7 +201,7 @@ __Coordinator for Business French Training Course__, Department of French at the
 `2015–2016`
 __Committee member for First Pan-European Studies Graduate Students Conference__, University of Virginia.
 
-`2014–Present`
+`2014–2016`
 __Research Assistant__, FLLEP Grant, funded initiative for the implementation of e-portfolios in foreign language learning.
 
 `2013-2014`
