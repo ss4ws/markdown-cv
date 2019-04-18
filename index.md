@@ -19,16 +19,19 @@ University of Virginia
 
 ## EDUCATION
 
-`2013 - (Fall 19 excpected)`
-__University of Virginia__, _PhD_, French Contemporary Literature and Digital Media  
+`2013 - (Fall 2019 excpected)`
+__University of Virginia__  
+_PhD_, French Contemporary Literature and Digital Media    
 _Dissertation_: Brouillon net: artisans du web, et écriture à l’ère numérique 
 
 `2001-2002`
-__University Paris 8__, _DEA (MA2)_, Texte, Imaginaire, Société       
+__University Paris 8__  
+_DEA (MA2)_, Texte, Imaginaire, Société       
 _Dissertation_: Vies d’artistes dans l’oeuvre de Pierre Michon
 
 `1999-2000`
-__University Paris 8__, _Maîtrise (MA1)_, Lettres Modernes     
+__University Paris 8__  
+_Maîtrise (MA1)_, Lettres Modernes     
 _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
 
