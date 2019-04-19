@@ -231,9 +231,10 @@ __Gary Ferguson__, Douglas Huntly Gordon Distinguished Professor, Department of 
 
 __Yitna Firdyiwek__, Instructional Designer, A&S Learning Design & Technology, University of Virginia  
 
+__Rachel Geer__, Assistant Professor, French House Director, University of Virginia   
+
 __Karen James__, Associate Professor, Director of the French Language Program, University of Virginia  
 
-__Rachel Geer__, Assistant Professor, French House Director, University of Virginia   
 
 
 
