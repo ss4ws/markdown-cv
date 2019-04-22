@@ -235,6 +235,8 @@ __Rachel Geer__, Assistant Professor, French House Director, University of Virgi
 
 __Karen James__, Associate Professor, Director of the French Language Program, University of Virginia  
 
+__Brandon Walsh__, Head of Student Programs, Scholars’ Lab, UVA Library  
+
 
 
 
