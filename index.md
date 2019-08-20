@@ -103,6 +103,10 @@ __Teaching vocabulary in context__, annual graduate students’ orientation week
 
 ## TEACHING EXPERIENCE
 
+`2019-2020`
+__Lecturer__, University of Virginia
+Representative courses: beginner, intermediate, and accelerated French.
+
 `2013-2019`
 __Teaching Assistant__, University of Virginia
 Representative courses: beginner, intermediate, and accelerated French.
@@ -244,6 +248,6 @@ __Brandon Walsh__, Head of Student Programs, Scholars’ Lab, UVA Library
 
 
 
-`Last updated: 2019-04-18`
+`Last updated: 2019-05-05`
 
 
