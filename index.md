@@ -2,7 +2,7 @@
 layout: cv
 title: Curriculum Vitæ
 ---
-## Spyridon Simotas
+# Spyridon Simotas
 PhD Candidate, Department of French   
 Praxis Program Alumni at the Scholars' Lab    
 University of Virginia  
