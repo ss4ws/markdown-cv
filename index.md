@@ -128,7 +128,7 @@ __Undergraduate students' assistant__, Université Paris 8.
 __Modern Greek tutor__, Phonie-Graphie, Paris, France.
 
 
-## HONORS AND AWARDS  
+## HONORS & AWARDS  
 
 `2019`
 __Contemplative Sciences Center__, CDI award for integrating contemplative practices in teaching, University of Virginia.   
@@ -248,6 +248,6 @@ __Brandon Walsh__, Head of Student Programs, Scholars’ Lab, UVA Library
 
 
 
-`Last updated: 2019-05-05`
+`Last updated: 2019-09-26`
 
 
